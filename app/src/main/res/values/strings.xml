@@ -15,4 +15,5 @@
     <string name="First">Первый</string>
     <string name="Second">Второй</string>
     <string name="Third">Третий</string>
+    <string name="row">Контейнер Row</string>
 </resources>
